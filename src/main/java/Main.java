@@ -9,7 +9,7 @@ public class Main {
 //        System.out.println(myobj.contains(1));
         System.out.println(myobj.add(2));
 //        System.out.println(myobj.add(1));
-//      System.out.println(myobj.getValue(0));
+        System.out.println(myobj.getValue(0));
         System.out.println(myobj.toString());
 //        System.out.println(myobj.del(1));
 //        System.out.println(myobj.del(2));
